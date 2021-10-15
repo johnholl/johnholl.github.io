@@ -16,8 +16,8 @@
 title: "Amateur Everything."
 email: 'jholler423@gmail.com'
 description: "Teacher ~ Programmer ~ Mathematician ~ Amateur"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://johnholl.github.io"
+baseurl: "https://johnholler.com" # the subpath of your site, e.g. /blog
+url: "https://johnholler.com"
 github_username: 'johnholl'
 
 # Build settings
