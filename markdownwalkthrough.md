@@ -192,7 +192,6 @@ body {
 
 {% highlight yaml %}
 ### Phantom settings
-paginate: 10
 footer_text: ''
 admin_name: 'John Holler'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
