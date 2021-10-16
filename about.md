@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## About me
 
-hello world, I'm john. I have at various points been a mathematician, a machine learning researcher, a teacher, and a software developer. I also spend a lot of time outdoors windsurfing, cycling, sailing. I live with my wife Haley, a brilliant teacher, in Ypsilanti, Michigan.
+Hello World, I'm John. I have at various points professionally been a mathematician, a machine learning researcher, a teacher, and a software developer. "Amateur Everything" comes from the fact that I like to learn and try all kinds of things in my spare time. Some of those things include windsurfing, sailing, cycling, woodworking, hardware, auto mechanics, and cooking. I live with my wife Haley, a brilliant English teacher, in Ypsilanti, Michigan.
 
 
 <div class="col-md-4">
