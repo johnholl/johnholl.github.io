@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'JsExperiment'
 date: 2022-04-14 21:15:00
 categories: mathematics computerscience
