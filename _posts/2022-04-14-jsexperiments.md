@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Dissertation'
+title: 'JsExperiment'
 date: 2022-04-14 21:15:00
 categories: mathematics computerscience
 tags: Algorithms React Javascript
