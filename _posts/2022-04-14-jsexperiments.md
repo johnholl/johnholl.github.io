@@ -5,7 +5,7 @@ title: 'JsExperiment'
 date: 2022-04-14 21:15:00
 categories: mathematics computerscience
 tags: Algorithms React Javascript
-featured_image: '/img/colorpuzzle_static.png'
+featured_image: '/img/experiments.png'
 project_link: 'https://dev.d3513lez266dga.amplifyapp.com/'
 button_icon: 'flask'
 button_text: 'Visit Project'
